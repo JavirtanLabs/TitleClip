@@ -88,7 +88,7 @@ This means:
 ✔ Any modifications or derivative works **must** also be licensed under GPL-3.0.  
 ✔ You **cannot** turn this software or its derivatives into proprietary software.
 
-📄 Full license text(LICENSE) file in this repository.
+📄 [Full license text](LICENSE) file in this repository.
 
 ---
 
