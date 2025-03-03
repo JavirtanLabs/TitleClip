@@ -1,0 +1,10 @@
+{
+    "en": {
+      "copy_note_title": "Copy note title",
+      "title_copied": "Note title copied: \"{title}\""
+    },
+    "es": {
+      "copy_note_title": "Copiar título de la nota",
+      "title_copied": "Título de la nota copiado: \"{title}\""
+    }
+  }
