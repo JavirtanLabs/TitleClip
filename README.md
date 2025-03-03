@@ -10,8 +10,7 @@
 ✔ Option to **include or exclude** the `.md` extension when copying.  
 ✔ **Multilingual support**: English and Spanish, with auto-detection.  
 ✔ Manual language selection in the plugin settings.  
-✔ **Optimized performance**: Loads translations only once for efficiency.  
-✔ Well-organized and clean codebase for maintainability.
+✔ **Optimized performance**: Loads translations only once for efficiency.
 
 ---
 
@@ -33,7 +32,7 @@
 
 #### **From GitHub (Manual Installation)**
 
-1. Download the latest **release** from [GitHub Releases](#).
+1. Download the latest **release** from [GitHub Releases](https://github.com/JavirtanLabs/TitleClip/releases).
 2. Extract the files into your Obsidian vault under:
        
 ```
@@ -89,15 +88,15 @@ This means:
 ✔ Any modifications or derivative works **must** also be licensed under GPL-3.0.  
 ✔ You **cannot** turn this software or its derivatives into proprietary software.
 
-📄 Full license text can be found in the `LICENSE` file in this repository.
+📄 Full license text(LICENSE) file in this repository.
 
 ---
 
 ### **🤝 Contributing to the Project**
 
 We welcome contributions to improve the plugin! Here’s how you can help:  
-✔ Report issues or suggest improvements in the GitHub Issues section.  
-✔ Help refine and expand translations.  
+✔ Report issues or suggest improvements in the GitHub [Issues](https://github.com/JavirtanLabs/TitleClip/issues) section.
+✔ Help refine and expand translations.
 ✔ Provide feedback on usability and performance.
 
 All contributions should maintain the lightweight, user-friendly nature of the plugin.
