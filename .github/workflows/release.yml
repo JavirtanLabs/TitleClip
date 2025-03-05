@@ -1,5 +1,6 @@
 name: Release Obsidian plugin
-
+# This workflow automates the release process for TitleClip.
+# It triggers when a new tag is pushed and creates a draft release.
 on:
   push:
     tags:
