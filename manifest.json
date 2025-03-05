@@ -1,0 +1,10 @@
+{
+	"id": "titleclip",
+	"name": "TitleClip",
+	"version": "1.0.1",
+	"minAppVersion": "0.12.0",
+	"description": "Adds an option in the tab menu and more options menu to copy the note title, with multi-language support.",
+	"author": "JávirtanLabs",
+	"authorUrl": "https://github.com/JavirtanLabs",
+	"isDesktopOnly": true
+}
