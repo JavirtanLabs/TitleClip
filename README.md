@@ -7,7 +7,7 @@
 ### **🛠 Features (Version 1.0.2)**
 
 ✔ Copy note titles directly from the **Tab Menu** and the **More Options Menu**.  
-✔ Option to **include or exclude** the `.md` extension when copying.
+✔ Option to **include or exclude** the `.md` extension when copying.  
 ✔ **Multilingual support**: English and Spanish, with auto-detection or manual selection.
 
 ---
