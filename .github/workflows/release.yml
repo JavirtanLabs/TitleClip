@@ -1,9 +1,8 @@
 name: Release TitleClip Plugin
 
 on:
-  push:
-    tags:
-      - "*"
+  release:
+    types: [created]
 
 jobs:
   build:
