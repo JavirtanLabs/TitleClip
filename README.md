@@ -81,8 +81,7 @@ This means:
 ### **🤝 Contributing to the Project**
 
 We welcome contributions to improve the plugin! Here’s how you can help:  
-✔ Report issues or suggest improvements in the GitHub [Issues](https://github.com/JavirtanLabs/TitleClip/issues) section.
-&nbsp;
+✔ Report issues or suggest improvements in the GitHub [Issues](https://github.com/JavirtanLabs/TitleClip/issues) section.  
 ✔ Provide feedback on usability and performance.
 
 All contributions should maintain the lightweight, user-friendly nature of the plugin.
