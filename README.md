@@ -58,7 +58,7 @@
 
 We are currently evaluating new features for an upcoming version, including:
 
-1️⃣ **Copying the full** note path within the vault.
+1️⃣ **Copying the full** note path within the vault.  
 2️⃣ **Copying multiple selected note titles** at once.
 
 If you have suggestions that improve usability while keeping the plugin lightweight, feel free to open an issue on GitHub!
